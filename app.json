@@ -28,7 +28,7 @@
       "required": false
     },
     "MINECRAFT_VERSION": {
-      "description": "Minecraft version. Ex: 1.19 (server.jar link must be on /etc/files.json)",
+      "description": "Minecraft version. Ex: 1.19 (server.jar url for this version must be on /etc/files.json)",
       "required": false
     },
   },
