@@ -30,7 +30,7 @@
     "MINECRAFT_VERSION": {
       "description": "Minecraft version. Ex: 1.19 (server.jar url for this version must be on /etc/files.json)",
       "required": false
-    },
+    }
   },
   "buildpacks": [
     {
